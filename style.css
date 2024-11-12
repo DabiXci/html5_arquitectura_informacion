@@ -1,0 +1,9 @@
+body{
+  color: white;
+  background-color: rgb(173, 234, 141);
+}
+p{
+  color: blue;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+}
